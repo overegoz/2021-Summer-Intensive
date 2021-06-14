@@ -1,0 +1,5 @@
+This Smart-Mirror is a modified version of the following:
+HackerHouseYT/Smart-Mirror.git
+
+Demo and Build Instructions from the original git repo
+https://youtu.be/fkVBAcvbrjU
