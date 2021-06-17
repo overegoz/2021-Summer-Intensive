@@ -6,5 +6,8 @@ test.txt
 *.exe
 *.zip
 
-## 폴더 무시
+## 특정 위치의 폴더 무시
 experimental/
+
+## 특정 이름을 가지는 모든 경로의 폴더 무시
+.ipynb_checkpoints
